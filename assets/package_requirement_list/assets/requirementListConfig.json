@@ -1,0 +1,26 @@
+{
+  "title": "Image Requirements",
+  "headingText": "Requirements",
+  "buttonText": "OK",
+  "buttonTextColor": "0xffffffff",
+  "buttonBackgroundColor": "0xffA31F34",
+  "imageTitle": "imageRequirementExample.png",
+  "imageHeight": 150.0,
+  "requirementLists": {
+    "valid": [
+      "Upright & forward facing",
+      "Shoulder height",
+      "Reading glasses",
+      "Singular person"
+    ],
+    "invalid": [
+      "No hats or beanies",
+      "No headphones",
+      "No sunglasses",
+      "No animals",
+      "No more than 1 person",
+      "No rude gestures",
+      "No offensive backgrounds"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "maxWidth": 1280,
+  "maxHeight": 1280,
+  "toolbarTitle": "Cropper",
+  "cropStyle": "rectangle",
+  "compressQuality": 100,
+  "MobileToolbarColor": "0xffA31F34",
+  "MobileToolbarWidgetColor": "0xffffffff",
+  "WebCropBoundaryWidth": 350,
+  "WebCropBoundaryHeight": 350,
+  "WebCropViewportWidth": 300,
+  "WebCropViewportHeight": 300
+}

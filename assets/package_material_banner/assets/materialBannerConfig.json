@@ -1,0 +1,8 @@
+{
+  "pendingMessage": "Pending validation, please wait...",
+  "pendingMessageTextColor": "0xffffffff",
+  "backgroundColor": "0xffADD8E6",
+  "iconColor": "0xffffffff",
+  "closingMessage": "OK",
+  "closingTextColor": "0xffffffff"
+}

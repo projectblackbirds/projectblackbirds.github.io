@@ -1,0 +1,24 @@
+{
+  "buttonText": "OK",
+  "buttonTextColor": "0xffffffff",
+  "buttonBackgroundColor": "0xffA31F34",
+  "borderRadius": 20.0,
+  "messages": {
+    "imageSize": {
+      "default": "Upload size too big",
+      "custom1": "Custom message 1",
+      "custom2": "Custom message 2"
+    },
+    "login": {
+      "default": "Invalid login",
+      "custom1": "Custom message 1",
+      "custom2": "Custom message 2"
+    },
+    "showCameraNotification": {
+      "default": "Camera not available.",
+      "error": "Something went wrong",
+      "custom1": "Custom message 1",
+      "custom2":"Custom message 2"
+    }
+  }
+}
